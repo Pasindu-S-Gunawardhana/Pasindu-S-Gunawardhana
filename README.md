@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Pasindu-S-Gunawardhana/Pasindu-S-Gunawardhana/blob/main/1740760854238.jpeg" alt="Custom Banner Image" />
+  <img src="https://github.com/c/Pasindu-S-Gunawardhana/blob/main/1740760854238.jpeg" alt="Custom Banner Image" />
 </div>
 
 ---
@@ -9,7 +9,7 @@
   <h3>A Undergraduate focused on Computer Networking / Linux </h3>
   
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=green" alt="Profile views" />
+    <img src="https://komarev.com/ghpvc/?username=Pasindu-S-Gunawardhana&color=green" alt="Profile views" />
   </p>
 </div>
 
