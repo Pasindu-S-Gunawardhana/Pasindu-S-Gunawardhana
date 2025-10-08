@@ -23,14 +23,6 @@
 - 💬 Ask me about **Computer Networking , Python , HTML , CSS , Linux**.
 ---
 
-## 🛠️ My Tech Stack
-
-| Category | Technologies |
-| :--- | :--- |
-| **Frontend** | ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white) |
-| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
-| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](
-
 
 <div align="center">
   <h2>🚀 Certified With:</h2>
@@ -47,10 +39,10 @@
     <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Ethical Hacker" width="150" height="150" style="padding: 5px;"/>
   </a>
   <a href="#IOT">
-    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt=Introduction to IOT" width="150" height="150" style="padding: 5px;"/>
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Introduction to Cybersecurity" width="150" height="150" style="padding: 5px;"/>
   </a>
   <a href="[CISCO_CYBERSECURITY_VERIFICATION_LINK]">
-    <img src="https://www.credly.com/badges/913af37b-7235-4a42-a21a-74926fcf779f/public_url" alt="Cisco Introduction to Cybersecurity" width="150" height="150" style="padding: 5px;"/>
+    <img src="https://images.credly.com/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Introduction to IOT" width="150" height="150" style="padding: 5px;"/>
   </a>
 
 </div>
