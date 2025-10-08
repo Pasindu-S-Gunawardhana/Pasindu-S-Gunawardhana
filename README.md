@@ -17,12 +17,10 @@
 
 ## 🚀 What I'm Currently Working On
 
-- 💻 I'm currently working on **[Project Name or Role]** at **[Company/Organization]**.
-- 🌱 I'm currently learning **[New Technology, e.g., Rust, Machine Learning]**.
-- 👯 I’m looking to collaborate on **[Type of Project, e.g., Open Source Web Apps]**.
-- 💬 Ask me about **[Your expertise, e.g., JavaScript, Cloud Architecture, Cycling]**.
-- ⚡ Fun fact: **[A fun fact about yourself!]**
-
+- 💻 I'm currently working on **Web Project** at **CMbySE**.
+- 🌱 I'm currently learning **Linux System Administration**.
+- 👯 I’m looking to collaborate on **System Administration**.
+- 💬 Ask me about **Computer Networking , Python , HTML , CSS , Linux**.
 ---
 
 ## 🛠️ My Tech Stack
@@ -34,6 +32,16 @@
 | **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](
 
 
+## 🚀 Certified With:
+
+<div align="center">
+  <a href="[LINK_TO_VERIFICATION_PAGE_1]">
+    <img src="[URL_OF_CERT_1]" alt="Fortinet Certified Fundamentals Badge" width="150"/>
+  </a>
+  <a href="[LINK_TO_VERIFICATION_PAGE_2]">
+    <img src="[URL_OF_CERT_2]" alt="Cisco Networking Academy Badge" width="150"/>
+  </a>
+  </div>
 
 
 
