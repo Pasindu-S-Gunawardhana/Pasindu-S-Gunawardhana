@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/c/Pasindu-S-Gunawardhana/blob/main/1740760854238.jpeg" alt="Custom Banner Image" />
+  <img src="https://github.com/Pasindu-S-Gunawardhana/Pasindu-S-Gunawardhana/blob/main/1740760854238.jpeg" alt="Custom Banner Image" />
 </div>
 
 ---
