@@ -37,49 +37,25 @@
 </div>
 
 <div align="center">
-  <a href="[FORTINET_CYBERSECURITY_VERIFICATION_LINK]">
-    <img src="[FORTINET_CYBERSECURITY_IMAGE_URL]" alt="Fortinet Certified Fundamentals" width="150" height="150" style="padding: 5px;"/>
+  <a href="https://www.credly.com/badges/78d79c67-19ca-4ef4-a8c0-6e86184237be/public_url">
+    <img src="https://images.credly.com/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" alt="Multicloud Network Associate" width="150" height="150" style="padding: 5px;"/>
   </a>
-  <a href="[ICIP_OPSWAT_VERIFICATION_LINK]">
-    <img src="[ICIP_OPSWAT_IMAGE_URL]" alt="ICIP OPSWAT" width="150" height="150" style="padding: 5px;"/>
+  <a href="https://www.credly.com/badges/c874a9dc-22b6-4ccd-8c94-adb865bf4058/public_url">
+    <img src="https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks" width="150" height="150" style="padding: 5px;"/>
   </a>
-  <a href="[FORTINET_NSE_EXAM_1_VERIFICATION_LINK]">
-    <img src="[FORTINET_NSE_EXAM_1_IMAGE_URL]" alt="Fortinet NSE Exam 1" width="150" height="150" style="padding: 5px;"/>
+  <a href="#">
+    <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Ethical Hacker" width="150" height="150" style="padding: 5px;"/>
   </a>
-  <a href="[FORTINET_NSE_EXAM_2_VERIFICATION_LINK]">
-    <img src="[FORTINET_NSE_EXAM_2_IMAGE_URL]" alt="Fortinet NSE Exam 2" width="150" height="150" style="padding: 5px;"/>
+  <a href="#IOT">
+    <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt=Introduction to IOT" width="150" height="150" style="padding: 5px;"/>
   </a>
   <a href="[CISCO_CYBERSECURITY_VERIFICATION_LINK]">
-    <img src="[CISCO_CYBERSECURITY_IMAGE_URL]" alt="Cisco Introduction to Cybersecurity" width="150" height="150" style="padding: 5px;"/>
-  </a>
-  <a href="[CISCO_ENDPOINT_SECURITY_VERIFICATION_LINK]">
-    <img src="[CISCO_ENDPOINT_SECURITY_IMAGE_URL]" alt="Cisco Endpoint Security" width="150" height="150" style="padding: 5px;"/>
-  </a>
-  <a href="[CISCO_IOT_VERIFICATION_LINK]">
-    <img src="[CISCO_IOT_IMAGE_URL]" alt="Cisco IoT" width="150" height="150" style="padding: 5px;"/>
+    <img src="https://www.credly.com/badges/913af37b-7235-4a42-a21a-74926fcf779f/public_url" alt="Cisco Introduction to Cybersecurity" width="150" height="150" style="padding: 5px;"/>
   </a>
 
-  <br>
-  <a href="[CISCO_NETWORKING_VERIFICATION_LINK]">
-    <img src="[CISCO_NETWORKING_IMAGE_URL]" alt="Cisco Networking Basics" width="150" height="150" style="padding: 5px;"/>
-  </a>
-  <a href="[IBM_COGNITIVE_VERIFICATION_LINK]">
-    <img src="[IBM_COGNITIVE_IMAGE_URL]" alt="IBM Cognitive Class" width="150" height="150" style="padding: 5px;"/>
-  </a>
-  <a href="[GOOGLE_ANALYTICS_VERIFICATION_LINK]">
-    <img src="[GOOGLE_ANALYTICS_IMAGE_URL]" alt="Google Analytics Certified" width="150" height="150" style="padding: 5px;"/>
-  </a>
-  <a href="[POSTMAN_ACADEMY_VERIFICATION_LINK]">
-    <img src="[POSTMAN_ACADEMY_IMAGE_URL]" alt="Postman Academy" width="150" height="150" style="padding: 5px;"/>
-  </a>
 </div>
 
 <br>
-
-
-<br>
-
-## ⚙️ Languages and Tools :
 
 <br>
 
@@ -89,7 +65,6 @@
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="45" height="45" style="padding: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aws/aws-original.svg" alt="AWS" width="45" height="45" style="padding: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" width="45" height="45" style="padding: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45" style="padding: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45" style="padding: 5px;"/>
@@ -121,7 +96,6 @@
 
   <br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" alt="Swift" width="45" height="45" style="padding: 5px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwind/tailwind-original-wordmark.svg" alt="Tailwind CSS" width="45" height="45" style="padding: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45" style="padding: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" alt="Vue.js" width="45" height="45" style="padding: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45" style="padding: 5px;"/>
