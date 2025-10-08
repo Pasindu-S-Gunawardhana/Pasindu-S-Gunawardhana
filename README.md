@@ -2,14 +2,14 @@
 
 
 <div align="center">
-  <img src="https://via.placeholder.com/800x200?text=YOUR+CUSTOM+BANNER+HERE" alt="Custom Banner Image" />
+  <img src="https://github.com/Pasindu-S-Gunawardhana/Pasindu-S-Gunawardhana/blob/main/1740760854238.jpeg" alt="Custom Banner Image" />
 </div>
 
 ---
 
 <div align="center">
-  <h1>Hi there! I'm [YOUR FIRST NAME] 👋</h1>
-  <h3>A [YOUR PRIMARY ROLE/TITLE] focused on [YOUR FOCUS AREA]</h3>
+  <h1>Hi there! I'm Pasindu 👋</h1>
+  <h3>A Undergraduate focused on Computer Networking / Linux </h3>
   
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=green" alt="Profile views" />
