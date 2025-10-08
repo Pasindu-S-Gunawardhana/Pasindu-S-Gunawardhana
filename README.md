@@ -1,5 +1,46 @@
 ## Hi there 👋
 
+
+<div align="center">
+  <img src="https://via.placeholder.com/800x200?text=YOUR+CUSTOM+BANNER+HERE" alt="Custom Banner Image" />
+</div>
+
+---
+
+<div align="center">
+  <h1>Hi there! I'm [YOUR FIRST NAME] 👋</h1>
+  <h3>A [YOUR PRIMARY ROLE/TITLE] focused on [YOUR FOCUS AREA]</h3>
+  
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=[YOUR_GITHUB_USERNAME]&color=green" alt="Profile views" />
+  </p>
+</div>
+
+---
+
+## 🚀 What I'm Currently Working On
+
+- 💻 I'm currently working on **[Project Name or Role]** at **[Company/Organization]**.
+- 🌱 I'm currently learning **[New Technology, e.g., Rust, Machine Learning]**.
+- 👯 I’m looking to collaborate on **[Type of Project, e.g., Open Source Web Apps]**.
+- 💬 Ask me about **[Your expertise, e.g., JavaScript, Cloud Architecture, Cycling]**.
+- ⚡ Fun fact: **[A fun fact about yourself!]**
+
+---
+
+## 🛠️ My Tech Stack
+
+| Category | Technologies |
+| :--- | :--- |
+| **Frontend** | ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=flat-square&logo=react&logoColor=black) ![Vue](https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=flat-square&logo=vue.js&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Database** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![MongoDB](
+
+
+
+
+
+
 <!--
 **Pasindu-S-Gunawardhana/Pasindu-S-Gunawardhana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
