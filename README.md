@@ -8,9 +8,6 @@
   <h1>Hi there! I'm Pasindu 👋</h1>
   <h3>A Undergraduate focused on Computer Networking / Linux </h3>
   
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=Pasindu-S-Gunawardhana&color=green" alt="Profile views" />
-  </p>
 </div>
 
 ---
