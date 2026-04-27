@@ -19,11 +19,10 @@
 - 💬 Ask me about **Computer Networking , Python , HTML , CSS , Linux**.
 ---
 
-
+<!-- This is a comment
 <div align="center">
   <h2>🚀 Certified With:</h2>
 </div>
-<!-- This is a comment 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
     <a href="https://www.credly.com/badges/78d79c67-19ca-4ef4-a8c0-6e86184237be/public_url">
       <img src="https://images.credly.com/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" alt="Multicloud Network Associate" width="150" height="150" "/>
