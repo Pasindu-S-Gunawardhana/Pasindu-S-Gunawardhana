@@ -25,7 +25,7 @@
   <h2>🚀 Certified With:</h2>
 </div>
 
-<div align="center">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
   <a href="https://www.credly.com/badges/78d79c67-19ca-4ef4-a8c0-6e86184237be/public_url">
     <img src="https://images.credly.com/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" alt="Multicloud Network Associate" width="150" height="150" style="padding: 5px;"/>
   </a>
@@ -52,7 +52,7 @@
   <h2>⚙️ Languages and Tools :</h2>
 </div>
 
-<div align="left">
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" alt="Android" width="45" height="45" style="padding: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg" alt="Babel" width="45" height="45" style="padding: 5px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45" style="padding: 5px;"/>
