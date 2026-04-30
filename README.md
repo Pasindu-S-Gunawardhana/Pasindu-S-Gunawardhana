@@ -41,9 +41,6 @@
     </a>
 </div>
 -->
-<br>
-<br>
-
 <div align="center">
   <h2>🚀 Certified With:</h2>
 </div>
