@@ -19,56 +19,61 @@
 - 💬 Ask me about **Computer Networking , Python , HTML , CSS , Linux**.
 ---
 
-<!-- This is a comment
-<div align="center">
-  <h2>🚀 Certified With:</h2>
-</div>
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
-    <a href="https://www.credly.com/badges/78d79c67-19ca-4ef4-a8c0-6e86184237be/public_url">
-      <img src="https://images.credly.com/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" alt="Multicloud Network Associate" width="150" height="150" "/>
-    </a>
-    <a href="https://www.credly.com/badges/c874a9dc-22b6-4ccd-8c94-adb865bf4058/public_url">
-      <img src="https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" alt="CCNA: Introduction to Networks" width="150" height="150" "/>
-    </a>
-    <a href="#">
-      <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" alt="Ethical Hacker" width="150" height="150" />
-    </a>
-    <a href="#IOT">
-      <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" alt="Cisco Introduction to Cybersecurity" width="150" height="150" style="padding: 5px;"/>
-    </a>
-    <a href="[CISCO_CYBERSECURITY_VERIFICATION_LINK]">
-      <img src="https://images.credly.com/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" alt="Introduction to IOT" width="150" height="150" style="padding: 5px;"/>
-    </a>
-</div>
--->
+
 <div align="center">
   <h2>🚀 Certified With:</h2>
 </div>
 
 <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 25px;">
 
+  <!-- Red Hat System Administration I (RH124) -->
+  <a href="YOUR_RH124_LINK" target="_blank">
+    <img src="https://images.credly.com/images/1bc718d9-6aae-4b20-81f9-a19b4982a026/blob" width="150" />
+  </a>
+
+  <!-- Red Hat System Administration II (RH134) -->
+  <a href="YOUR_RH134_LINK" target="_blank">
+    <img src="https://images.credly.com/images/95cf22a9-209f-4832-b5d8-6341cfd7f20d/blob" width="150" />
+  </a>
+
+  <!-- CCNA: Introduction to Networks -->
+  <a href="https://www.credly.com/badges/c874a9dc-22b6-4ccd-8c94-adb865bf4058/public_url" target="_blank">
+    <img src="https://images.credly.com/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="150" />
+  </a>
+
+  <!-- DevNet Associate -->
+  <a href="YOUR_DEVNET_LINK" target="_blank">
+    <img src="https://images.credly.com/images/35985f2b-38d6-4b6f-8e63-42b17d3b5c69/DEVASC_Learning_Badge.png" width="150" />
+  </a>
+
+  <!-- Aviatrix Multicloud Network Associate -->
   <a href="https://www.credly.com/badges/78d79c67-19ca-4ef4-a8c0-6e86184237be/public_url" target="_blank">
     <img src="https://images.credly.com/images/e3c001fd-161d-433a-a7a4-049556d6112d/blob" width="150" />
   </a>
 
-  <a href="https://www.credly.com/badges/c874a9dc-22b6-4ccd-8c94-adb865bf4058/public_url" target="_blank">
-    <img src="https://images.credly.com/size/220x220/images/70d71df5-f3dc-4380-9b9d-f22513a70417/CCNAITN__1_.png" width="150" />
-  </a>
-
-  <a href="YOUR_ETHICAL_HACKER_LINK_HERE" target="_blank">
+  <!-- Ethical Hacker -->
+  <a href="YOUR_ETHICAL_HACKER_LINK" target="_blank">
     <img src="https://images.credly.com/images/242902b5-f527-42ad-865e-977c9e1b5b58/image.png" width="150" />
   </a>
 
-  <a href="YOUR_CYBERSECURITY_LINK_HERE" target="_blank">
+  <!-- Cisco Introduction to Cybersecurity -->
+  <a href="YOUR_CYBERSECURITY_LINK" target="_blank">
     <img src="https://images.credly.com/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width="150" />
   </a>
 
-  <a href="YOUR_IOT_LINK_HERE" target="_blank">
+  <!-- Cisco Introduction to IoT -->
+  <a href="YOUR_IOT_LINK" target="_blank">
     <img src="https://images.credly.com/images/fce226c2-0f13-4e17-b60c-24fa6ffd88cb/Intro2IoT.png" width="150" />
+  </a>
+
+  <!-- Cisco Networking Basics -->
+  <a href="YOUR_NETWORKING_BASICS_LINK" target="_blank">
+    <img src="https://images.credly.com/images/5bdd6a39-3e03-4444-9510-ecff80c9ce79/image.png" width="150" />
   </a>
 
 </div>
 
+<br>
 
 <div align="left">
   <h2>⚙️ Languages and Tools :</h2>
